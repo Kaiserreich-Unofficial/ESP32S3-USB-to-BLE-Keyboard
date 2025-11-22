@@ -1,0 +1,5 @@
+# Vscode Configuration
+.vscode/
+
+# Built Firmware
+build
